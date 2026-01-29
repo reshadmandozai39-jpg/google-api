@@ -1,0 +1,57 @@
+{
+  "cities": [
+    { "lat": 47.3769, "lng": 8.5417, "title": "Zürich" },
+    { "lat": 46.948, "lng": 7.4474, "title": "Bern" },
+    { "lat": 46.2044, "lng": 6.1432, "title": "Genève" },
+    { "lat": 46.5197, "lng": 6.6323, "title": "Lausanne" },
+    { "lat": 47.5596, "lng": 7.5886, "title": "Basel" },
+    { "lat": 47.0502, "lng": 8.3093, "title": "Luzern" },
+    { "lat": 47.366, "lng": 8.55, "title": "Winterthur" },
+    { "lat": 46.0056, "lng": 8.9526, "title": "Lugano" },
+    { "lat": 46.991, "lng": 6.931, "title": "Neuchâtel" },
+    { "lat": 47.1346, "lng": 7.244, "title": "Biel/Bienne" },
+    { "lat": 47.173, "lng": 8.517, "title": "Zug" },
+    { "lat": 47.391, "lng": 8.051, "title": "Aarau" },
+    { "lat": 47.559, "lng": 9.377, "title": "St. Gallen" },
+    { "lat": 46.852, "lng": 9.532, "title": "Chur" },
+    { "lat": 46.297, "lng": 7.532, "title": "Sion" },
+    { "lat": 46.493, "lng": 7.686, "title": "Interlaken" },
+    { "lat": 46.484, "lng": 9.901, "title": "St. Moritz" },
+    { "lat": 46.522, "lng": 6.64, "title": "Morges" },
+    { "lat": 47.123, "lng": 8.747, "title": "Rapperswil‑Jona" },
+    { "lat": 47.6973, "lng": 8.6349, "title": "Schaffhausen" },
+    { "lat": 46.191, "lng": 9.021, "title": "Bellinzona" },
+    { "lat": 46.629, "lng": 8.041, "title": "Andermatt" },
+    { "lat": 46.055, "lng": 7.747, "title": "Zermatt" },
+    { "lat": 46.271, "lng": 7.881, "title": "Grindelwald" },
+    { "lat": 47.369, "lng": 8.541, "title": "Kloten" },
+    { "lat": 47.449, "lng": 8.732, "title": "Uster" },
+    { "lat": 47.419, "lng": 8.539, "title": "Dübendorf" },
+    { "lat": 46.219, "lng": 6.132, "title": "Carouge" },
+    { "lat": 47.424, "lng": 9.376, "title": "Gossau" },
+    { "lat": 46.233, "lng": 6.116, "title": "Versoix" }
+  ],
+
+  "properties": [
+    {
+      "address": "2019 Waisenhausplatz, Bern, Switzerland",
+      "description": "Single family house",
+      "price": "$ 2,325,000",
+      "type": "home",
+      "bed": 4,
+      "bath": 3.5,
+      "size": 500,
+      "position": { "lat": 46.948536, "lng": 7.441456 }
+    },
+    {
+      "address": "13a Kreuzimaadweg, Wilderswil, Switzerland",
+      "description": "Mio's home",
+      "price": "$ 100,000,000",
+      "type": "home",
+      "bed": 3,
+      "bath": 20,
+      "size": 10,
+      "position": { "lat": 46.66740787866, "lng": 7.8673239066539 }
+    }
+  ]
+}
